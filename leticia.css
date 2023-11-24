@@ -1,1 +1,11 @@
+body{
+     background: #CCCCC
+}
 
+p {
+     text-aling: center;
+}
+
+em strong {
+    color: red;
+}
